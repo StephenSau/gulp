@@ -2,4 +2,4 @@ var gulp =require("gulp");
 
 
 	gulp.task("watch",['watch']);
-	gulp.task('task');
+	gulp.task("clean");
